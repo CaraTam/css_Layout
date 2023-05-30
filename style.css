@@ -1,0 +1,221 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+}
+nav{
+    display: flex;
+}
+.logo{
+    height: 300px;
+    width: 300px;
+    margin-top: -130px;
+}
+.nav-link{
+    margin-left: 500px;
+    display: flex;
+    list-style: none;
+}
+.nav-link li a{
+    text-decoration: none;
+    margin-left: 20px;
+}
+.logo1{
+    height: 5px;
+    width: 35px;
+}
+.logo1{
+    width: 35px;
+    padding: -100px;
+    margin: 250px;
+    display: block;
+    margin: 0 auto;
+}
+h1{
+    font-size: x-large;
+    text-align: center;
+    margin: 100px;
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+.box-ok{
+    display: flex;
+    margin: .8em;
+    line-height: 1.75;
+    font-weight: 400;
+    margin: 1.6em;
+    gap: 60px;
+}
+.paragraphe1{
+
+}
+.paragraphe2{
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    padding: 1.375em 1.25em;
+    float: left;
+    justify-content: space-between;
+    gap: 50px;
+}
+.box2{
+    background-color: #00ccb1; 
+ }
+
+
+.box1{
+    background-color: #00ccb1; 
+}
+
+
+.box h1{
+color: white;
+align-items: center;
+display: flex;
+margin: .3em 0;
+padding: 30px;}
+
+ .box p{
+color: white;
+padding: 50px;}
+
+
+.box2{
+    background-color: #3d83df;
+}
+.box2 h1{
+    color: white;
+    font-size: 1.25em;
+    font-weight: 400;
+    margin: .3em 0;
+}
+.box2 P{
+    color: white;
+}
+.box3{
+    background-color: #1b2734;
+
+}
+.box3 h1{
+    color:rgb(red, green, blue);
+    font-size: 1.625em;
+    font-weight: 400;
+    margin: .3em 0;
+}
+
+.tamb{justify-content: center;
+    display: flex;
+    padding: 50px;
+}
+
+
+.gipo
+{height: 45px;
+
+}
+
+.tuotempo{
+height: 38px;
+width: 106px;}
+
+.diont{color: black;
+
+}
+
+.office_desc{border: solid red; 
+margin-top: 100px;
+position: ;
+bottom:x;
+;}
+
+.btn{
+background-color: #006cf8;
+
+}
+
+.btn--small{color: white;}
+
+.office_image{border: solid orange;
+flex-wrap: wrap;
+padding: 1%;
+gap: 100px;
+
+
+
+
+column-count: 3;
+
+}
+
+
+.bogota{
+height: 200px;
+max-width: 150%;}
+
+.istanbul{
+    height: 200px;
+    max-width: 150%;}
+    .munich{ 
+        height: 200px;
+        max-width: 150%;
+    }
+    .warsaw{
+        height: 200px;
+        max-width: 150;}
+    .rome{
+        height: 200px;
+        max-width: 150%;}
+    .bologna{
+        height: 200px;
+        max-width: 150%;
+    }
+    .rio-janeiro{
+        height: 200px;
+        max-width: 150%;
+    }
+       
+
+    .curitiba{
+        height: 200px;
+        max-width: 150%;
+}
+    .mexico-city{
+
+        height: 200px;
+        max-width: 150;}
+    .barcelona{
+
+        height: 200px;
+        max-width: 150%;
+}
+    
+.offices1{
+    flex-wrap: wrap;
+    display: flex;
+column-count: 3;
+}
+    .main-footer{
+        
+        justify-content: center;
+    }
+    .selection_inner1{
+        justify-content: center;
+        margin-left: 80px;
+    }
+    .tata{
+        font-family: 'work sans';
+        color: rgba(148, 135, 135, 0.712);
+        font-size: 25px;
+    }
+    .button{
+        background-color: blue;
+    
+
+    }
+    .voir{
+        color: white;
+        font-size: 15px;
+        
+    }
